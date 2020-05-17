@@ -1,2 +1,6 @@
 # Ruby-Basics
-Basic Ruby
+Conceptos:
+
+Iniciar consola: irb
+Compilar: ruby arch.rb
+
